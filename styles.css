@@ -120,7 +120,7 @@ strong {
 .arrow {
   position: absolute;
   bottom: 95px;
-  right: 145px;
+  right: 135px;
 }
 .arrow:hover {
   color: #ffd700;
