@@ -6,17 +6,27 @@
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
     <url>
         <loc>https://jdzvar.sk/</loc>
-        <lastmod>2024-11-11T18:41:20+00:00</lastmod>
+        <lastmod>2024-11-27T13:56:29+00:00</lastmod>
         <priority>1.00</priority>
     </url>
     <url>
         <loc>https://jdzvar.sk/index.html</loc>
-        <lastmod>2024-11-11T18:41:20+00:00</lastmod>
+        <lastmod>2024-11-27T13:56:29+00:00</lastmod>
         <priority>0.80</priority>
     </url>
     <url>
         <loc>https://jdzvar.sk/contact.html</loc>
-        <lastmod>2024-11-11T18:41:20+00:00</lastmod>
+        <lastmod>2024-11-27T13:56:28+00:00</lastmod>
         <priority>0.80</priority>
+    </url>
+    <url>
+        <loc>https://jdzvar.sk/gallery.html</loc>
+        <lastmod>2024-11-27T13:56:28+00:00</lastmod>
+        <priority>0.60</priority>
+    </url>
+    <url>
+        <loc>https://jdzvar.sk/404.html</loc>
+        <lastmod>2024-11-27T13:56:28+00:00</lastmod>
+        <priority>0.60</priority>
     </url>
 </urlset>
