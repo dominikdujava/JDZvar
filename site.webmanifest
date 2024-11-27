@@ -1,0 +1,19 @@
+{
+  "name": "JD Zvar",
+  "short_name": "JDzvar",
+  "icons": [
+    {
+      "src": "assets/logo-192.svg",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "assets/logo-512.svg",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "theme_color": "#f6f6f6",
+  "background_color": "#022c66",
+  "display": "standalone"
+}

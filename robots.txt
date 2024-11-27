@@ -1,5 +1,5 @@
 User-agent: *
-Disallow: /assets/
+Allow: /assets/
 Allow: /index.html
 Allow: /contact.html
 
